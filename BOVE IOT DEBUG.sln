@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bove IOT", "COMDBG\Bove IOT.csproj", "{AB204B9C-C58F-4567-A9BD-46A78A6D49BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB204B9C-C58F-4567-A9BD-46A78A6D49BA}.Debug|x86.ActiveCfg = Debug|x86
+		{AB204B9C-C58F-4567-A9BD-46A78A6D49BA}.Debug|x86.Build.0 = Debug|x86
+		{AB204B9C-C58F-4567-A9BD-46A78A6D49BA}.Release|x86.ActiveCfg = Release|x86
+		{AB204B9C-C58F-4567-A9BD-46A78A6D49BA}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E210F46B-74AC-4800-93C7-4671FF313100}
+	EndGlobalSection
+EndGlobal
