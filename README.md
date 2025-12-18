@@ -112,7 +112,7 @@ BOVE IOT 调试工具是一个开源的 IoT 设备调试工具，专为嵌入式
 
 ## 联系与支持
 
-- **作者**： [JSS](https://github.com/evilon2000)
+- **作者**： [evilon2000](https://github.com/evilon2000)
 - **讨论**：在 GitHub Discussions 中提问，或通过 Issues 反馈。
 - **未来计划**：添加 Linux/Mac 支持、多线程日志、脚本自动化和 WebSocket 集成。
 
